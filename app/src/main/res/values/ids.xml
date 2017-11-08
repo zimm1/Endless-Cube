@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_level_finished_interstitial_ad">show_level_finished_interstitial_ad</string>
+    <string name="n_games_before_show_level_finished_interstitial_ad">n_games_before_show_level_finished_interstitial_ad</string>
+    <string name="show_continue_game_video_ad">show_continue_game_video_ad</string>
+    <string name="force_update_store_url">force_update_store_url</string>
+    <string name="force_update_version">force_update_version_</string>
+</resources>

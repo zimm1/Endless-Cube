@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Endless Cube</string>
+    <string name="sign_in_failure">Unable to sign in</string>
+    <string name="sign_in_other_error">There was an issue with sign-in, please try again later</string>
+    <string name="sign_out_message">Sign Out</string>
+    <string name="no_thanks">No, thanks</string>
+    <string name="update">Update</string>
+    <string name="please_update_message">Please, update app to new version.</string>
+    <string name="new_version_available">New version available</string>
+    <string name="game_over">GAME OVER :)</string>
+    <string name="replay">REPLAY</string>
+    <string name="new_high_score">New high score!</string>
+    <string name="high_score">High score:</string>
+    <string name="points">points</string>
+    <string name="point">point</string>
+    <string name="you_got">You got</string>
+</resources>

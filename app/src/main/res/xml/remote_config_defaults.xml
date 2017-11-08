@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>show_level_finished_interstitial_ad</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>n_games_before_show_level_finished_interstitial_ad</key>
+        <value>2</value>
+    </entry>
+    <entry>
+        <key>show_continue_game_video_ad</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>show_continue_game_video_ad</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>force_update_store_url</key>
+        <value>https://play.google.com/store/apps/details?id=com.simonecavazzoni.firstandroidgame</value>
+    </entry>
+</defaultsMap>
+<!-- END xml_defaults -->

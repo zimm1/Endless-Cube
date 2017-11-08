@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824234259372",
+    "firebase_url": "https://endless-cube-1264554.firebaseio.com",
+    "project_id": "endless-cube-1264554",
+    "storage_bucket": "endless-cube-1264554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824234259372:android:7f15a420dee9522e",
+        "android_client_info": {
+          "package_name": "com.simonecavazzoni.firstandroidgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824234259372-vgoom8rm1d9bf5up5miokqira7n6h0mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simonecavazzoni.firstandroidgame",
+            "certificate_hash": "88ba90661b0daef40afd9e10f9babf0ac0cfa5c5"
+          }
+        },
+        {
+          "client_id": "824234259372-co9p71e7q9504vkvrukt1mrpjic33nbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTW8fbJh_Oi88fUaAaVP3UdqYabzd4nXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824234259372-co9p71e7q9504vkvrukt1mrpjic33nbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
